@@ -65,7 +65,7 @@ nav a:hover {
 
 .produtos h2 {
 	font-size: 30px;
-	font-weight: bold;
+	font-weight: bold;receber
 }
 
 .produto-descricao {
@@ -169,9 +169,8 @@ form label {
 	  display:block;
 		font-size: 20px;
 		margin: 0 0 10px;
-}
 
-form input {
+		.input-padrao {
 	  display: block;
 		margin: 0 0 20px;
 		padding: 10px 25px;
