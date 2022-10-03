@@ -165,7 +165,7 @@ form {
 	 margin: 40px 0;
 }
 
-form label {
+form label, form legend {
 	  display:block;
 		font-size: 20px;
 		margin: 0 0 10px;
@@ -180,12 +180,4 @@ form label {
 
 .checkbox {
 	  margin: 20px 0;
-}
-
-p {
-	  color: red;
-}
-
-form p {
-	  color: blue;
 }
